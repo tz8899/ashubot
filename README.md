@@ -12,7 +12,9 @@ pip install httpx
 ```
 
 
-**自动打包**
+
+
+**自动打包：**
 
 右边Releases里打包好的exe是Github Action自动打包
 
@@ -20,6 +22,8 @@ pip install httpx
 打包脚本.github/workflows/main.yml
 
 等待若干时间，会自动帮你打包好并发布到Releases。
+
+
 
 
 **使用教程：** 
@@ -39,6 +43,8 @@ pip install httpx
 输入maxPriorityFeePerGas：这个是小费gasPrice
 
 输入data：支持直接复制铭文文本，或者十六进制（必须0x开头）
+
+
 
 
 

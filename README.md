@@ -9,7 +9,7 @@ pip install httpx
 
 
 
-**使用教程** <br>
+**使用教程** 
 输入地址：这是你接收铭文的地址
 输入私钥：付gas账号私钥
 输入RPC：打哪个链用哪个链的RPC，有的RPC不支持batchRequest，多换几个
@@ -17,7 +17,7 @@ pip install httpx
 输入gasPrice：就是gasPrice
 输入maxFeePerGas：这个是最大gasPrice，可以多给点
 输入maxPriorityFeePerGas：这个是小费gasPrice
-输入data：支持直接复制铭文文本，或者十六进制（必须0x开头）<br>
+输入data：支持直接复制铭文文本，或者十六进制（必须0x开头）
 
 
 **其它说明**

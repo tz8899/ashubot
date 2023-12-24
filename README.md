@@ -1,6 +1,6 @@
-<strong>适用于所有EVM链
+适用于所有EVM链
 
-<strong>依赖：
+依赖：
 pip install web3
 pip install httpx
 

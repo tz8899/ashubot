@@ -19,7 +19,7 @@ pip install httpx
 右边Releases里打包好的exe是Github Action自动打包
 
 
-打包脚本.github/workflows/main.yml
+打包脚本 .github/workflows/main.yml
 
 等待若干时间，会自动帮你打包好并发布到Releases。
 
